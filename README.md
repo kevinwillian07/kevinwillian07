@@ -1,16 +1,13 @@
-## Hi there 👋
+<img width="967" height="442" alt="hugu" src="https://github.com/user-attachments/assets/56be7fcb-9543-4358-b19b-5ecaa0453b35" />
 
-<!--
-**kevinwillian07/kevinwillian07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=800000&center=true&vCenter=true&width=1200&size=35&lines=Objection!;" />
+
+---
+
+## Kevin Willian
+---
+**ETEC Vasco Antonio Venchiarutti- Desenvolvimento de Sistemas**
+<p>Sobrevivendo.</p>
