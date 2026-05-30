@@ -1,4 +1,5 @@
-<img width="967" height="442" alt="hugu" src="https://github.com/user-attachments/assets/56be7fcb-9543-4358-b19b-5ecaa0453b35" />
+<img width="1000" height="470" alt="Jjk GIF" src="https://github.com/user-attachments/assets/42bce305-c715-4c33-9bec-a4b597f5f9a6" />
+
 
 
 
