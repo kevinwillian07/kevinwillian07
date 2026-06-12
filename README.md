@@ -1,4 +1,4 @@
-<img width="640" height="360" alt="spy-x-family-loid-forger" src="https://github.com/user-attachments/assets/6dac970f-0825-43fe-a602-081a6080839b" />
+<img width="1040" height="360" alt="spy-x-family-loid-forger" src="https://github.com/user-attachments/assets/6dac970f-0825-43fe-a602-081a6080839b" />
 
 
 
