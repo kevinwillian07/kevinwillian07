@@ -3,7 +3,7 @@
 
 
 ---
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=06402B&center=true&vCenter=true&width=1200&size=35&lines=Spy x Family;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=06402B&center=true&vCenter=true&width=1200&size=35&lines=Spy+x+Family;" />
 
 ---
 
