@@ -19,28 +19,16 @@
 ## 🔗 Links dos Portfólios
 
 - **Portfólio de Programação e Algoritmos:**  
-Link: https://github.com/etecvav26-1C2-10/portfolio-pa
+Link:[ https://github.com/etecvav26-1C2-10/portfolio-pa](https://github.com/etecvav26-1C2-08/portifolio-pa)
 
 - **Portfólio de Sistemas Embarcados:**  
-Link: https://github.com/etecvav26-1C2-10/Portifolio-SE
+Link: [https://github.com/etecvav26-1C2-10/Portifolio-SE](https://github.com/etecvav26-1C2-08/portifolio-iot)
 
 - **Portfólio de Programação Web:**  
-Link: https://github.com/etecvav26-1C2-10/portiflio-pw
+Link:[ https://github.com/etecvav26-1C2-10/portiflio-pw](https://github.com/etecvav26-1C2-08/portifolio-pw)
 
 ---
 
-## 📂 Projetos
-
-| Projeto | Descrição | Linguagem |
-|---|---|---|
-| <a href="https://github.com/etecvav26-1C2-10/portfolio-pa">Portfolio-PA</a> | Portfólio utilizado para publicar atividades e trabalhos da disciplina de Programação e Algoritmos (PA). | Portugol, C++ |
-| <a href="https://github.com/etecvav26-1C2-10/portiflio-pw">Portfolio-PW</a> | Portfólio utilizado para publicar atividades e trabalhos da disciplina de Programação Web (PW). | HTML, CSS, JavaScript |
-| <a href="https://github.com/etecvav26-1C2-10/Portifolio-SE">Portfolio-SE</a> | Portfólio utilizado para publicar atividades e trabalhos da disciplina de Sistemas Embarcados (SE). | C++ |
-| <a href="https://github.com/Kevin645757hfh/Aulas-Etec">Aulas-Etec</a> | Portfólio pessoal criado para publicar todas as atividades realizadas durante o ensino médio na ETEC, permitindo acompanhar minha evolução e desenvolvimento ao longo do tempo. | HTML, CSS, C++ |
-| <a href="https://github.com/Kevin645757hfh/atividades-proprias-cpp">Atividades C++</a> | Repositório dedicado à publicação de projetos e exercícios pessoais em C++, realizados fora das atividades escolares. | C++ |
-| <a href="https://github.com/Kevin645757hfh/projetos-pessoas-python/tree/main">Projetos Pessoais Python</a> | Repositório dedicado à publicação dos meus projetos, exercícios e estudos pessoais em Python. | Python |
-
----
 
 <div align="center">
 
