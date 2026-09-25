@@ -27,7 +27,7 @@ Projetos e atividades que desenvolvi e contribuí durante o curso:
 *  **Programação Web**
   [Acessar portfólio](https://github.com/etecvav26-1C2-08/portifolio-pw)
 
-*  **Projetos ETEC**
+*  **Projetos pessoais ETEC**
   [Acessar repositório](https://github.com/kevinwillian07/Etec-)
 
 ---
