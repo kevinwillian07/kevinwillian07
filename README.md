@@ -17,7 +17,7 @@
 
 ---
 
-## 🔗 Links dos Portfólios
+## 🔗 Links dos Portfólios que contribuí: 
 
 - **Portfólio de Programação e Algoritmos:**  
 Link:[ https://github.com/etecvav26-1C2-10/portfolio-pa](https://github.com/etecvav26-1C2-08/portifolio-pa)
