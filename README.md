@@ -29,7 +29,7 @@ Link: https://github.com/kevinwillian07/Etec-
 
 <div align="center">
 
-##  Linguagens Aprendidas e que já utilizo
+##  Linguagens estudadas e que já utilizo
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" alt="HTML">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" alt="CSS">
