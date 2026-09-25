@@ -21,8 +21,9 @@ Link: [https://github.com/etecvav26-1C2-10/Portifolio-SE](https://github.com/ete
 - **Portfólio de Programação Web:**  
 Link:[ https://github.com/etecvav26-1C2-10/portiflio-pw](https://github.com/etecvav26-1C2-08/portifolio-pw)
 
-**Portfólio Etec**  
+- **Portfólio Etec:**  
 Link: https://github.com/kevinwillian07/Etec-
+
 ---
 
 
